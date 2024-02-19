@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\bin\Debug\net6.0\C-sharp-String-StringBuilder.exe
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\bin\Debug\net6.0\C-sharp-String-StringBuilder.deps.json
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\bin\Debug\net6.0\C-sharp-String-StringBuilder.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\bin\Debug\net6.0\C-sharp-String-StringBuilder.dll
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\bin\Debug\net6.0\C-sharp-String-StringBuilder.pdb
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.dll
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\refint\C-sharp-String-StringBuilder.dll
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.pdb
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\C-sharp-String-StringBuilder.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\C-sharp-String-StringBuilder\obj\Debug\net6.0\ref\C-sharp-String-StringBuilder.dll
